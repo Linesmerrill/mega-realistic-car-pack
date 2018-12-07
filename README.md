@@ -4,4 +4,6 @@
 
 **From https://forum.fivem.net/t/gta-5-mega-realistic-car-pack-4-0-330-cars/55276**
 
-## Download the pack here: https://github.com/Linesmerrill/mega-realistic-car-pack/releases/tag/v0.0.1
+## Download the pack here: (2.8GB)
+
+https://github.com/Linesmerrill/mega-realistic-car-pack/releases/tag/v0.0.1
